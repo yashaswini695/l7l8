@@ -24,7 +24,7 @@ if not (x>y):
     print('the first number is not greater than the second number')
 
 else:
-        print('the first number is greater tham second number')
+        print('the first number is greater than second number')
 
 
 
